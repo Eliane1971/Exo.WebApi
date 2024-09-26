@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NIDIbvUVK3Y=",
+  "dgSpecHash": "qo7L7uJzEZU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\egmri\\OneDrive\\Área de Trabalho\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\egmri\\OneDrive\\Área de Trabalho\\Senai\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\egmri\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\egmri\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
